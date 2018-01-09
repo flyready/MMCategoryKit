@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MMCategoryLib_Example' do
+  pod 'MMCategoryLib', :path => '../'
+
+  target 'MMCategoryLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
