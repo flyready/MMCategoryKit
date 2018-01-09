@@ -1,0 +1,6 @@
+framework module MMCategoryLib {
+  umbrella header "MMCategoryLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
