@@ -7,7 +7,7 @@
 //
 
 #import "MMViewController.h"
-
+#import "Person.h"
 @interface MMViewController ()
 
 @end
